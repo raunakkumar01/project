@@ -2,6 +2,8 @@ To run the program
 goto directory \project\AirReservation\dist from your comand promt
 then use these commands
 
+Note :- add all the csv files in \project\AirReservation directory to \project\AirReservation\dist directory first
+
 Swing Mode
 C:\Users\HP\dist>java -jar AirReservation.jar spicejet.Schedule.csv silkair.Sche
 dule.csv swing
