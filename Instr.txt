@@ -1,0 +1,14 @@
+To clone
+	git clone https://github.com/raunakkumar01/project.git
+To read afile on vim editor
+	vim readme.md 
+To see changes made whats modified and not modified
+	git status
+
+To add changed file
+	git add readme.md
+To push this file to repository ie finalizing tje changes
+	git commit -m "Updated the readme"
+	git commit -help to see all options
+To see all the recent works
+	git log
