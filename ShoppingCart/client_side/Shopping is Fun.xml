@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<mobile>
+		<picture url="samsung.jpg"></picture>
+		<brand>Samsung</brand>
+		<price>Rs.25000</price>		
+	</mobile>
+	<mobile>
+		<picture url="nokia.jpeg"></picture>
+		<brand>Nokia</brand>
+		<price>Price:Rs.15000</price>
+	</mobile>
+	<mobile>
+	<picture url="micromax.jpg"></picture>
+		<brand>Micromax</brand>
+		<price>Price:Rs.10000</price>
+	</mobile>
+	<mobile>
+		<picture url="Karbonn.jpg"></picture>
+		<brand>Karbonn</brand>
+		<price>Price:Rs.8000</price>
+	</mobile>
+	<mobile>
+		<picture url="asus.jpg"></picture>
+		<brand>Asus</brand>
+		<price>Price:Rs.9999</price>
+	</mobile>
+	<mobile>
+		<picture url="intex.jpeg"></picture>
+		<brand>Intex</brand>
+		<price>Price:Rs.8499</price>
+	</mobile>		
+</catalog>

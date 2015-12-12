@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+	<person uid="01">
+		<picture url="p1.jpeg"></picture>
+		<name>Ram</name>
+		<password>123</password>
+		<mobiles>
+			<mobile>Samsung</mobile>
+			<mobile>Karbonn</mobile>
+		</mobiles>		
+	</person>
+	<person uid="02">
+		<picture url="p2.jpeg"></picture>
+		<name>Shyam</name>
+		<password>abc</password>
+		<mobiles>
+			<mobile>Nokia</mobile>
+			<mobile>Karbonn</mobile>
+		</mobiles>		
+	</person>
+</persons>

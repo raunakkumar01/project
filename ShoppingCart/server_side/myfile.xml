@@ -1,0 +1,14 @@
+<elements>
+<element>
+<ename>Name</ename>
+<eprice>Price</eprice>
+</element>
+<element>
+<ename>Nokia Mobile</ename>
+<eprice>15000</eprice>
+</element>
+<element>
+<ename>Asus Mobile</ename>
+<eprice>9999</eprice>
+</element>
+</elements>
